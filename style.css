@@ -80,7 +80,7 @@ header .icons a:hover{
 .cart-wrapper{
     max-height: 300px;
     /* width:20vw; */
-    /* overflow-y: scroll; */
+    overflow-y: scroll;
 }
     
     .shopping-cart{
